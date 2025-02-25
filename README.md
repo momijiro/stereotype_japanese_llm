@@ -2,7 +2,7 @@
 
 This repository contains the code and data of our paper of:
 
-### Analyzing the Safety of Japanese Large Language Models When Responding to Stereotypical Prompts
+### Analyzing the Safety of Japanese Large Language Models in Stereotype-Triggering Prompts
 
 ## This repository
 - notebook
@@ -11,5 +11,3 @@ This repository contains the code and data of our paper of:
 - data
     - Japanese_group_template_sub.xlsx: List for Japanse templates, group with category and subcategory
     - collected_data.csv: Results of our data collection (this data includes both original responses and preprocessed options)
-
-## citation
